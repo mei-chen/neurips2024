@@ -86,7 +86,7 @@ def main():
     """, unsafe_allow_html=True)
     
     # Main title and description
-    st.title("🔍 Conference Poster Search")
+    st.title("🔍 NeurIPS 2024 Poster Search")
     st.markdown("Search through conference posters using natural language queries.")
     
     # Load embeddings
