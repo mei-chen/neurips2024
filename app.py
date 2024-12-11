@@ -82,8 +82,18 @@ def main():
             margin: 0.5rem 0;
             font-size: 1.1rem;
         }
+        footer {
+            visibility: visible;
+            position: relative;
+            clear: both;
+            margin-top: 50px;
+            padding: 20px;
+            text-align: right;
+            font-size: 14px;
+        }
         </style>
     """, unsafe_allow_html=True)
+    
     
     # Main title and description
     st.title("🔍 NeurIPS 2024 Poster Search")
@@ -151,6 +161,20 @@ def main():
         
         except Exception as e:
             st.error(f"Error during search: {str(e)}")
+
+    ###################### Footer ######################
+    st.markdown("")  # Add some space
+    st.markdown("")  # Add more space
+    st.markdown("---")  # Horizontal line
+    st.markdown(
+        """
+        <footer>
+            made with ❤️ by <a href="https://www.linkedin.com/in/chenml/" target="_blank">Mei Chen</a>
+        </footer>
+        """, 
+        unsafe_allow_html=True
+    )
+
 
 if __name__ == "__main__":
     main()
