@@ -34,4 +34,4 @@
 
 4. Run the app:
    ```bash
-   streamlit run app.pyI 
+   streamlit run app.py
