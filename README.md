@@ -5,21 +5,11 @@
 ---
 
 ## 📹 Demo
-<video width="100%" controls>
-  <source src="assets/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.  
-  <a href="assets/demo.mp4">Download the video</a> to watch it locally.
-</video>
----
-{{ ... }}
-## 📹 Demo
 
-https://github.com/mlc-ai/neurips2024/assets/demo.mp4
-
-[Watch the demo video](assets/demo.mp4)
+![Demo](assets/demo.gif)
 
 ---
-{{ ... }}
+
 ## 🚀 Features
 
 - **Natural Language Search**: Search papers using full sentences and natural language queries.
