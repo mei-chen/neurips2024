@@ -1,22 +1,22 @@
 # NeurIPS Paper Search 2024
 
-**NeurIPS Paper Search** is a tool for searching through the thousands of papers in the NeurIPS conference.
+**NeurIPS Paper Search** help you search through thousands of NeurIPS 2024 posters, in full sentences.
 
 ---
 
 ## 📹 Demo
 <video width="100%" controls>
   <source src="assets/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  Your browser does not support the video tag.  
+  <a href="assets/demo.mp4">Download the video</a> to watch it locally.
 </video>
-
 ---
 
 ## 🚀 Features
 
-- **Feature 1:** Search with full sentences
-- **Feature 2:** Find the exact poster preesntation 
-- **Feature 3:** 
+- **Natural Language Search**: Search papers using full sentences and natural language queries.
+- **Poster Details**: Quickly find the exact presentation time and location of posters.
+
 
 ---
 
@@ -36,4 +36,4 @@
 
 4. Run the app:
    ```bash
-   streamlit run app.py
+   streamlit run app.pyI 
