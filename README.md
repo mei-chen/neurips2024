@@ -11,7 +11,15 @@
   <a href="assets/demo.mp4">Download the video</a> to watch it locally.
 </video>
 ---
+{{ ... }}
+## 📹 Demo
 
+https://github.com/mlc-ai/neurips2024/assets/demo.mp4
+
+[Watch the demo video](assets/demo.mp4)
+
+---
+{{ ... }}
 ## 🚀 Features
 
 - **Natural Language Search**: Search papers using full sentences and natural language queries.
